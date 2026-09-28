@@ -3,3 +3,7 @@
 * vul de stylesheet in
   * plaats een zwarte, dunne kader rond elk element
   * de article-elementen krijgen een gestipte rode kader
+
+## Verwacht resultaat
+
+![universal](./opgave.png)

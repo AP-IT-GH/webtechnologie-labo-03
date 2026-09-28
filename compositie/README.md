@@ -25,3 +25,6 @@ websites bouwde, maar ook bruggen tussen mensen.
   * bruggen tussen mensen
 
 > Tip: met een `span`-tag kan je een deel van de tekst in een `p`-tag selecteren en daar een class aan toevoegen.
+## Verwacht resultaat
+
+![compositie](./opgave.png)

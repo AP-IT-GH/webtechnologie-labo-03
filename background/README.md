@@ -11,3 +11,7 @@ Bouw de opmaak uit `opgave.png` na.
     * h1: `darkcyan`
     * h2: `#ee3e80`
   * de paragraaf krijgt een witte achtergrond en `#64645a` als tekstkleur
+
+## Verwacht resultaat
+
+![background](./opgave.png)

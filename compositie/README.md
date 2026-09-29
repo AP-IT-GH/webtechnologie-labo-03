@@ -15,7 +15,7 @@ websites bouwde, maar ook bruggen tussen mensen.
   * red: geeft de tekst een rode kleur
 * Zorg er nu voor dat de volgende woorden de class `big` krijgen:
   * regenachtige avond
-  * programmeen
+  * Programmeren
 * Zorg er voor dat de volgende woorden de class `bold` krijgen:
   * puzzel in plaats van een probleem
 * Zorg er voor dat de volgende woorden de class `red` krijgen:

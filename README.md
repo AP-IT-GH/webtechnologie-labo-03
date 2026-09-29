@@ -11,7 +11,7 @@
 1. [color](color/)
 2. [background](background/)
 3. [compositie](compositie/)
-4. [universal](universal/)
+4. [semantic-universal](semantic-universal/)
 5. [nav-selectors](nav-selectors/)
 6. [recipe-color](recipe-color/)
 7. [ph-scale](ph-scale/)

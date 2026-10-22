@@ -3,7 +3,7 @@
 In deze oefening oefen je op de **attribuutselector**. Je selecteert links niet op hun type, class
 of id, maar op de attributen die ze meekrijgen in de HTML.
 
-Lees eerst de theorie over [attributen](https://webtechnologie.apload.be/css/selectors/attributen).
+Lees eerst de theorie over [attributen](https://ap-it-gh.github.io/webtechnologie-docusaurus/css/selectors/attributen).
 
 `index.html` is gegeven en mag je **niet** aanpassen. Alles wat hieronder gevraagd wordt, los je op
 in `css/style.css`. Gebruik in die stylesheet **geen enkele class of id**, enkel type- en
